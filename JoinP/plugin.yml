@@ -1,0 +1,5 @@
+name: Join
+api: 1.0.0
+author: "Haxney_"
+version: 1.0
+main: join.Main
